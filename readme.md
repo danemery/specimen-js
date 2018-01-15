@@ -2,8 +2,6 @@
 
 specimen-js is a simple JavaScript type checking utility.
 
-You can find it on npm [here](https://www.npmjs.com/package/specimen-js).
-
 ## Node.js
 
 ### Installation

@@ -1,6 +1,8 @@
 const chai = require('chai');
 const assert = chai.assert;
-const specimen = require('../src/specimen.js');
+const Specimen = require('../src/specimen.js');
+
+const specimen = new Specimen();
 
 describe('Specimen', () => {
     describe('string type check', () => {

@@ -1,4 +1,4 @@
-class Specimen {
+module.exports = class Specimen {
     constructor() {}
 
     isString(value) {
@@ -35,5 +35,3 @@ class Specimen {
         return value === null;
     }
 };
-
-module.exports = new Specimen();
